@@ -17,7 +17,7 @@
 - 🍔 Led development of a college food ordering platform from the ground up
 - 🌱 Deepening my skills in Django REST Framework & scalable backend design
 - ⚡ I love turning rough UI ideas into smooth, animated interfaces
-- 📫 Reach me at: **your-email@example.com** <!-- update this -->
+- 📫 Reach me at: **dywakarsingh@gmail.com** 
 
 <br/>
 
