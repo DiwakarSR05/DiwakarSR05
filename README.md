@@ -50,13 +50,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DiwakarSR05&theme=dark&hide_border=false" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiwakarSR05&theme=darkhub&no-frame=true&row=1&margin-w=10" />
-</div>
 
 <br/>
 
