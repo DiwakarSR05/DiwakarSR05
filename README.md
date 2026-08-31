@@ -21,14 +21,14 @@
     <tr>
       <td valign="top" width="50%">
         <ul style="list-style-type: none; padding-left: 0;">
-          <li>🔭 <strong>Currently Building:</strong> A POS desktop application with electron, typescript, better sqlite3 etc.</li>
-          <li>💼 <strong>Role:</strong> Full-Stack Intern @ <strong>Whoez Group</strong>, Jhapa, Nepal</li>
+          <li>🔭 <strong>Currently Building:</strong> A local-first shop POS system with Electron, typescript & Better Sqlite3</li>
+          <li> <strong>Role:</strong> Full-Stack Intern @ <strong>Whoez Group</strong>, Jhapa, Nepal</li>
           <li>🏆 <strong>Proud Achievement:</strong> Led ground-up development of a college food ordering platform</li>
         </ul>
       </td>
       <td valign="top" width="50%">
         <ul style="list-style-type: none; padding-left: 0;">
-          <li>🌱 <strong>Currently Learning:</strong> Typescript & scalable backend architecture</li>
+          <li> <strong>Currently Learning:</strong> Typescript & scalable backend architecture</li>
           <li>⚡ <strong>Passion:</strong> Transforming rough UI concepts into smooth, animated, and intuitive interfaces</li>
           <li>📫 <strong>Contact:</strong> <a href="mailto:dywakarsingh@gmail.com">dywakarsingh@gmail.com</a></li>
         </ul>
@@ -48,18 +48,23 @@
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000) 
+![TanStack Start](https://img.shields.io/badge/TanStack%20Start-FF4F8B?style=for-the-badge&logo=tanstack&logoColor=ffffff) 
+![TanStack Router](https://img.shields.io/badge/TanStack%20Router-FF4F8B?style=for-the-badge&logo=tanstack&logoColor=ffffff) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff) 
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff)
 
 **Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=ffffff)
 
 **Design & Tools**  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=ffffff) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=ffffff) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) 
