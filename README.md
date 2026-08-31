@@ -1,76 +1,118 @@
 <div align="center">
+  <!-- Modern Sleek Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:1e1b4b&height=200&section=header&text=Hi%20There,%20I'm%20Diwakar%20👋&fontSize=38&fontColor=f8fafc&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20|%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=65&descAlign=62" />
+  
+  <br/>
+  
+  <!-- Refined Typing Animation -->
+  <a href="https://github.com/DiwakarSR05">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=818cf8&center=true&vCenter=true&width=650&lines=Crafting+scalable+full-stack+web+applications;Designing+modern,+animated+user+interfaces;Open+to+collaboration+and+new+opportunities" />
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Diwakar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<br/>
 
-<a href="https://github.com/DiwakarSR05">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Currently+designing+modern+UIs;Open+to+opportunities" />
-</a>
+---
+
+### 🚀 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li>🔭 <strong>Currently Building:</strong> A POS desktop application with electron, typescript, better sqlite3 etc.</li>
+          <li>💼 <strong>Role:</strong> Full-Stack Intern @ <strong>Whoez Group</strong>, Jhapa, Nepal</li>
+          <li>🏆 <strong>Proud Achievement:</strong> Led ground-up development of a college food ordering platform</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li>🌱 <strong>Currently Learning:</strong> Typescript & scalable backend architecture</li>
+          <li>⚡ <strong>Passion:</strong> Transforming rough UI concepts into smooth, animated, and intuitive interfaces</li>
+          <li>📫 <strong>Contact:</strong> <a href="mailto:dywakarsingh@gmail.com">dywakarsingh@gmail.com</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff) 
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+
+**Design & Tools**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=ffffff) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+---
 
-- 🔭 Currently building my **personal portfolio site** with React, TypeScript & Framer Motion
-- 💼 Full-Stack Intern @ **Whoez Group**, Jhapa, Nepal
-- 🍔 Led development of a college food ordering platform from the ground up
-- 🌱 Deepening my skills in Django REST Framework & scalable backend design
-- ⚡ I love turning rough UI ideas into smooth, animated interfaces
-- 📫 Reach me at: **dywakarsingh@gmail.com**
-
-<br/>
-
-## 💻 Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Framer](https://img.shields.io/badge/framer-%23FF0050.svg?style=for-the-badge&logo=framer&logoColor=white)
-
-**Databases**
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=DiwakarSR05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakarSR05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
-  </tr>
-</table>
-
-<br/>
-
-## 🤝 Connect with Me
+### 📊 GitHub Analytics
 
 <div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiwakarSR05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=818cf8&text_color=cbd5e1&icon_color=818cf8" alt="Diwakar's GitHub Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakarSR05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=818cf8&text_color=cbd5e1" alt="Top Languages" />
+        <br/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=dark&hide_border=true&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakarsinghrajbanshi007/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://diwakarsinghrajbanshi.com.np/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dywakarsingh@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiwakarSR05)
+<br/>
 
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diwakarsinghrajbanshi007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://diwakarsinghrajbanshi.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:dywakarsingh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/DiwakarSR05" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=DiwakarSR05&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+  <img src="https://visitcount.itsvg.in/api?id=DiwakarSR05&icon=2&color=12" alt="Profile Views" />
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,100:0f172a&height=100&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=20&fontColor=94a3b8&fontAlignY=50" width="100%"/>
 </div>
