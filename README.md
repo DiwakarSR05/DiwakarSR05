@@ -1,40 +1,69 @@
+<!-- Unique Animated Header with Glitch Effect -->
 <div align="center">
-  <!-- Stunning Animated Space Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=250&section=header&text=Hi%20There,%20I'm%20Diwakar%20👋&fontSize=40&fontColor=f8fafc&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:1e1b4b&height=250&section=header&text=Diwakar%20Singh%20Rajbanshi&fontSize=50&fontColor=818cf8&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Architect%20|%20UI%20Alchemist&descAlignY=60&descAlign=50&descSize=20" />
   
-  <!-- Animated Starfield Background (Subtle) -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-  
-  <br/>
-  
-  <!-- Refined Typing Animation -->
+  <!-- Unique Animated Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<br/>
+
+<!-- Interactive Terminal Style Intro -->
+<div align="center">
   <a href="https://github.com/DiwakarSR05">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1500&color=818cf8&center=true&vCenter=true&width=650&lines=Crafting+scalable+full-stack+web+applications;Designing+modern,+animated+user+interfaces;Open+to+collaboration+and+new+opportunities" />
+    <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=80&lines=%3E+System.out.println(%22Hello+World%22);%3E+Initializing+Full-Stack+Protocol...;%3E+Status:+Building+the+future+with+React+%26+TypeScript;%3E+Loading+UI+Animations...+100%25" />
   </a>
 </div>
 
 <br/>
 
----
-
-### 🚀 About Me
+<!-- Unique "Skill Matrix" Grid (Replaces boring lists) -->
+### ⚡ Skill Matrix
 
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>🔭 <strong>Currently Building:</strong> A local-first shop POS system with Electron, typescript & Better Sqlite3</li>
-          <li> <strong>Role:</strong> Full-Stack Intern @ <strong>Whoez Group</strong>, Jhapa, Nepal</li>
-          <li>🏆 <strong>Proud Achievement:</strong> Led ground-up development of a college food ordering platform</li>
-        </ul>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
       </td>
-      <td valign="top" width="50%">
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li> <strong>Currently Learning:</strong> Typescript & scalable backend architecture</li>
-          <li>⚡ <strong>Passion:</strong> Transforming rough UI concepts into smooth, animated, and intuitive interfaces</li>
-          <li>📫 <strong>Contact:</strong> <a href="mailto:dywakarsingh@gmail.com">dywakarsingh@gmail.com</a></li>
-        </ul>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br>Java
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+        <br>REST API
       </td>
     </tr>
   </table>
@@ -42,87 +71,65 @@
 
 <br/>
 
----
-
-### 💻 Tech Stack
+<!-- Unique "Live Metrics" Dashboard -->
+### 📡 Live Metrics
 
 <div align="center">
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000) 
-![TanStack Start](https://img.shields.io/badge/TanStack%20Start-FF4F8B?style=for-the-badge&logo=tanstack&logoColor=ffffff) 
-![TanStack Router](https://img.shields.io/badge/TanStack%20Router-FF4F8B?style=for-the-badge&logo=tanstack&logoColor=ffffff) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff) 
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=ffffff)
-
-**Design & Tools**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=ffffff) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=ffffff) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DiwakarSR05&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&include_all_commits=true&count_private=true" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=radical&hide_border=true&background=0f172a&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
----
+<!-- Unique "3D Contribution City" (Visualizes your commits as a 3D city) -->
+### 🏙️ Contribution City
 
-### 📈 Activity Graph
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DiwakarSR05/DiwakarSR05/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+
+<br/>
+
+<!-- Unique "Now Playing" / "Coding Activity" -->
+### 🎧 Coding Activity
 
 <div align="center">
   <a href="https://github.com/DiwakarSR05">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakarSR05&theme=react-dark&bg_color=0f172a&color=818cf8&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakarSR05&theme=react-dark&bg_color=0f172a&color=818cf8&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" />
   </a>
 </div>
 
 <br/>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/DiwakarSR05">
-    <img src="https://github-profile-trophy.vercel.app/?username=DiwakarSR05&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
----
-
-### 🤝 Let's Connect
+<!-- Unique "Connect" Hub -->
+### 🔗 Neural Connections
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diwakarsinghrajbanshi007/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" />
   </a>
   <a href="https://diwakarsinghrajbanshi.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
   </a>
   <a href="mailto:dywakarsingh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
   </a>
   <a href="https://twitter.com/DiwakarSR05" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0f172a" />
   </a>
 </div>
 
 <br/>
 
+<!-- Unique Footer -->
 <div align="center">
-  <!-- Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=20&fontColor=94a3b8&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=120&section=footer&text=System%20Online&fontSize=24&fontColor=818cf8&fontAlignY=70" width="100%" />
 </div>
