@@ -76,27 +76,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiwakarSR05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=818cf8&text_color=cbd5e1&icon_color=818cf8" alt="Diwakar's GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakarSR05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=818cf8&text_color=cbd5e1" alt="Top Languages" />
-        <br/>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=dark&hide_border=true&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
