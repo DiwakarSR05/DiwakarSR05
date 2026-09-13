@@ -1,12 +1,15 @@
 <div align="center">
-  <!-- Modern Sleek Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:1e1b4b&height=200&section=header&text=Hi%20There,%20I'm%20Diwakar%20👋&fontSize=38&fontColor=f8fafc&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20|%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=65&descAlign=62" />
+  <!-- Stunning Animated Space Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=250&section=header&text=Hi%20There,%20I'm%20Diwakar%20👋&fontSize=40&fontColor=f8fafc&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
+  
+  <!-- Animated Starfield Background (Subtle) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
   
   <br/>
   
   <!-- Refined Typing Animation -->
   <a href="https://github.com/DiwakarSR05">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=818cf8&center=true&vCenter=true&width=650&lines=Crafting+scalable+full-stack+web+applications;Designing+modern,+animated+user+interfaces;Open+to+collaboration+and+new+opportunities" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1500&color=818cf8&center=true&vCenter=true&width=650&lines=Crafting+scalable+full-stack+web+applications;Designing+modern,+animated+user+interfaces;Open+to+collaboration+and+new+opportunities" />
   </a>
 </div>
 
@@ -76,6 +79,30 @@
 
 ---
 
+### 📈 Activity Graph
+
+<div align="center">
+  <a href="https://github.com/DiwakarSR05">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakarSR05&theme=react-dark&bg_color=0f172a&color=818cf8&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/DiwakarSR05">
+    <img src="https://github-profile-trophy.vercel.app/?username=DiwakarSR05&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -96,7 +123,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DiwakarSR05&icon=2&color=12" alt="Profile Views" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,100:0f172a&height=100&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=20&fontColor=94a3b8&fontAlignY=50" width="100%"/>
+  <!-- Animated Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=20&fontColor=94a3b8&fontAlignY=70" width="100%"/>
 </div>
