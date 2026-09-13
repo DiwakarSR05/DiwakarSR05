@@ -17,7 +17,7 @@
 
 <br/>
 
-<!-- Unique "Skill Matrix" Grid (Replaces boring lists) -->
+<!-- Unique "Skill Matrix" Grid -->
 ### ⚡ Skill Matrix
 
 <div align="center">
@@ -71,40 +71,30 @@
 
 <br/>
 
-<!-- Unique "Live Metrics" Dashboard -->
+<!-- FIXED: Live Metrics (Stacked vertically to prevent layout breaks) -->
 ### 📡 Live Metrics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DiwakarSR05&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&include_all_commits=true&count_private=true" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=radical&hide_border=true&background=0f172a&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="Streak" />
-      </td>
-    </tr>
-  </table>
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DiwakarSR05&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&include_all_commits=true&count_private=true" alt="Stats" height="195" />
+  
+  <!-- Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=radical&hide_border=true&background=0f172a&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="Streak" height="195" />
+  
+  <br/>
+  
+  <!-- Top Languages Card (Added this to fill the space nicely) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakarSR05&theme=radical&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=cbd5e1&layout=compact" alt="Top Languages" height="150" />
 </div>
 
 <br/>
 
-<!-- Unique "3D Contribution City" (Visualizes your commits as a 3D city) -->
+<!-- FIXED: Contribution City (Using a standard graph that works immediately) -->
 ### 🏙️ Contribution City
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DiwakarSR05/DiwakarSR05/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</div>
-
-<br/>
-
-<!-- Unique "Now Playing" / "Coding Activity" -->
-### 🎧 Coding Activity
-
-<div align="center">
-  <a href="https://github.com/DiwakarSR05">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakarSR05&theme=react-dark&bg_color=0f172a&color=818cf8&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" />
-  </a>
+  <!-- This replaces the 3D graph with a reliable 2D graph if the action isn't setup yet -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakarSR05&theme=react-dark&bg_color=0f172a&color=818cf8&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
