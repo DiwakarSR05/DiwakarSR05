@@ -93,11 +93,27 @@
 ### 🏙️ Contribution City
 
 <div align="center">
-  <!-- This replaces the 3D graph with a reliable 2D graph if the action isn't setup yet -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakarSR05&theme=react-dark&bg_color=0f172a&color=818cf8&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/DiwakarSR05/DiwakarSR05/main/profile-3d-contrib/profile-gitblock.svg" width="100%" />
 </div>
 
 <br/>
+
+<!-- Trophy Wall -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiwakarSR05&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" />
+</div>
+
+<!-- Random Dev Quote (changes daily) -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<!-- Profile View Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DiwakarSR05&style=for-the-badge&color=818cf8&label=PROFILE+VIEWS" />
+</div>
+
+</br>
 
 <!-- Unique "Connect" Hub -->
 ### 🔗 Neural Connections
@@ -118,6 +134,7 @@
 </div>
 
 <br/>
+
 
 <!-- Unique Footer -->
 <div align="center">
