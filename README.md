@@ -68,40 +68,15 @@
     </tr>
   </table>
 </div>
-
 <br/>
 
 <!-- FIXED: Live Metrics (Stacked vertically to prevent layout breaks) -->
 ### 📡 Live Metrics
-
 <div align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DiwakarSR05&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&include_all_commits=true&count_private=true" alt="Stats" height="195" />
-  
   <!-- Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=radical&hide_border=true&background=0f172a&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="Streak" height="195" />
   
-  <br/>
-  
-  <!-- Top Languages Card (Added this to fill the space nicely) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakarSR05&theme=radical&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=cbd5e1&layout=compact" alt="Top Languages" height="150" />
-</div>
-
 <br/>
-
-<!-- FIXED: Contribution City (Using a standard graph that works immediately) -->
-### 🏙️ Contribution City
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DiwakarSR05/DiwakarSR05/main/profile-3d-contrib/profile-gitblock.svg" width="100%" />
-</div>
-
-<br/>
-
-<!-- Trophy Wall -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiwakarSR05&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" />
-</div>
 
 <!-- Random Dev Quote (changes daily) -->
 <div align="center">
