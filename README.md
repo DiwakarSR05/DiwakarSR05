@@ -1,6 +1,6 @@
 <!-- Unique Animated Header with Glitch Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:1e1b4b&height=250&section=header&text=Diwakar%20Singh%20Rajbanshi&fontSize=50&fontColor=818cf8&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Architect%20|%20UI%20Alchemist&descAlignY=60&descAlign=50&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:1e1b4b&height=250&section=header&text=Diwakar%20Singh%20Rajbanshi&fontSize=50&fontColor=818cf8&fontAlignY=40&animation=fadeIn" />
   
   <!-- Unique Animated Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -11,7 +11,7 @@
 <!-- Interactive Terminal Style Intro -->
 <div align="center">
   <a href="https://github.com/DiwakarSR05">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=80&lines=%3E+System.out.println(%22Hello+World%22);%3E+Initializing+Full-Stack+Protocol...;%3E+Status:+Building+the+future+with+React+%26+TypeScript;%3E+Loading+UI+Animations...+100%25" />
+    <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=80&lines=%3E+System.out.println(Diwakar%20Singh%20Rajbanshi);%3E+Web%20Developer%20%7C%20Full%20Stack;%3E+Building%20awesome%20applications" />
   </a>
 </div>
 
@@ -54,16 +54,16 @@
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
+        <br>Django
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="65" height="65" />
+        <br>SQLite
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-        <br>REST API
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="65" height="65" />
+        <br>Electron
       </td>
     </tr>
   </table>
@@ -74,7 +74,7 @@
 ### 📡 Live Metrics
 <div align="center">
   <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=radical&hide_border=true&background=0f172a&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=radical&hide_border=true&background=0f172a&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="Streak" />
   
 <br/>
 
