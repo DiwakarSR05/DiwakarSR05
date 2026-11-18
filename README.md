@@ -1,118 +1,67 @@
-<!-- Unique Animated Header with Glitch Effect -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:1e1b4b&height=250&section=header&text=Diwakar%20Singh%20Rajbanshi&fontSize=50&fontColor=818cf8&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Architect%20|%20UI%20Alchemist&descAlignY=60&descAlign=50&descSize=20" />
-  
-  <!-- Unique Animated Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:1e1b4b&height=250&section=header&text=Diwakar%20Singh%20Rajbanshi&fontSize=50&fontColor=818cf8&fontAlignY=40&desc=Full-Stack%20Architect%20|%20UI%20Alchemist&descAlignY=60&descAlign=50&descSize=20" />
 </div>
 
 <br/>
 
-<!-- Interactive Terminal Style Intro -->
+<!-- Typing Intro -->
 <div align="center">
-  <a href="https://github.com/DiwakarSR05">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=80&lines=%3E+System.out.println(%22Hello+World%22);%3E+Initializing+Full-Stack+Protocol...;%3E+Status:+Building+the+future+with+React+%26+TypeScript;%3E+Loading+UI+Animations...+100%25" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=80&lines=%3E+Initializing+Full-Stack+Protocol...;%3E+Building+the+future+with+React+%26+TypeScript;%3E+Status:+Online" />
 </div>
 
 <br/>
 
-<!-- Unique "Skill Matrix" Grid -->
-### ⚡ Skill Matrix
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="65" height="65" />
-        <br>Supabase
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-        <br>Django
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" width="65" height="65" />
-        <br>Tailwind CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-        <br>REST API
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,tailwind" width="380" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=django,mysql,supabase,github,postman" width="380" />
 </div>
+
 <br/>
 
-<!-- FIXED: Live Metrics (Stacked vertically to prevent layout breaks) -->
-### 📡 Live Metrics
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=radical&hide_border=true&background=0f172a&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" alt="Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakarSR05&theme=radical&hide_border=true&background=0f172a&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff" height="195" />
 </div>
-  
+
 <br/>
 
-<!-- Random Dev Quote (changes daily) -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakarSR05&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=ffffff" height="165" />
 </div>
 
-<!-- Profile View Counter -->
+<br/>
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakarsinghrajbanshi007/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://diwakarsinghrajbanshi.com.np/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dywakarsingh@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiwakarSR05)
+
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DiwakarSR05&style=for-the-badge&color=818cf8&label=PROFILE+VIEWS" />
 </div>
 
-</br>
-
-<!-- Unique "Connect" Hub -->
-### 🔗 Neural Connections
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/diwakarsinghrajbanshi007/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" />
-  </a>
-  <a href="https://diwakarsinghrajbanshi.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
-  </a>
-  <a href="mailto:dywakarsingh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
-  </a>
-  <a href="https://twitter.com/DiwakarSR05" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0f172a" />
-  </a>
-</div>
-
 <br/>
 
-
-<!-- Unique Footer -->
+<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=120&section=footer&text=System%20Online&fontSize=24&fontColor=818cf8&fontAlignY=70" width="100%" />
 </div>
